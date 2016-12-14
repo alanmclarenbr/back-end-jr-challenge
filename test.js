@@ -1,3 +1,4 @@
+var Leitor = require('./leitor.js');
 var assert = require('assert');
 
 describe("Teste de leitura do arquivo", function () {
@@ -17,3 +18,9 @@ describe("Teste de leitura do arquivo", function () {
 
     });
 });
+
+
+//Leitor('./test/alunos_singleline.csv');
+
+//console.log(Leitor.imprimeLinha([1,'Alan',9.2,9.5,8.7,8.1]);
+
