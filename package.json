@@ -1,0 +1,28 @@
+{
+  "name": "back-end-jr-challenge",
+  "version": "1.0.0",
+  "description": "Desafio para vaga de desenvolvedor back end NodeJs Jr da empresa Spot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanmclarenbr/back-end-jr-challenge.git"
+  },
+  "keywords": [
+    "spot",
+    "nodejs",
+    "desafio"
+  ],
+  "author": "Alan Simplicio do Espirito Santo",
+  "license": "ISC",
+  "homepage": "https://github.com/alanmclarenbr/back-end-jr-challenge#readme",
+  "dependencies": {
+    "fast-csv": "^2.3.0",
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
